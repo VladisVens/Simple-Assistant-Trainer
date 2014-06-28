@@ -100,5 +100,89 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	__title__error_only_bigoil_d2 = "Error: This cheat is avaiable only in Big Oil: Day 2"
 --			GERMAN
 --			UKRANIAN
+	btitle__close = "Закрити"
+
+--main menu
+	__title__mainmenu = "Меню трейнера Simple Assistant"
+
+	btitle__cheat_list = "Список читів"
+	btitle__skills_menu = "Меню вміннь"
+	btitle__money_menu = "Меню грошей"
+	btitle__disable_anticheat = "Вимкнути інтегрований античит"
+	btitle__check_updates = "Перевірити наявність оновлень"
+--cheats menu
+	__title__cheatsmenu = "Меню читів"
+
+	btitle__gamerelated_cheats = "Чити пов'язані з грою"
+	btitle__missionrelated_cheats = "Чити пов'язані з міссією"
+	btitle__back_to_main_menu = "До головного меню"
+--game-related cheats menu
+	__title__gamerelated_cheats = "Чити пов'язані з грою"
+
+	btitle__enable_gm = "Увімкнути режим Бога"
+	btitle__disable_gm = "Вимкнути режим Бога"
+	btitle__enable_iammo = "Увімкнути безкінечні патрони"
+	btitle__enable_instreload = "Увімкнути миттєву перезарядку"
+	btitle__enable_bdamage = "Buffer Weapon Damage"
+	btitle__disable_fb = "Вимкнути ефект світлової гранати"
+	btitle__disable_spread = "Вимкнути розкид куль"
+	btitle__disable_recoil = "Вимкнути віддачу"
+	btitle__gagepacks_detector = "Показати Gage пакети"
+	btitle__detect_engine = "Показати правильний двигун"
+	btitle__enable_stacker = "Увімкнути стакер сумок"
+	btitle__back_to_cheats_menu = "До меню читів"
+--menu-related cheats
+	__title__missionrelated_cheats = "Чити пов'язані з міссією"
+
+	btitle__freecontracts = "Безкоштовні контракти"
+	btitle__freecasino = "Безкоштовні ставки у казино"
+	btitle__free_unlimited_preplanning_assets = "Безкоштовні та безкінечні активи передпланування"
+	btitle__unlimited_draws = "Безкінечне малювання передпланування"
+	btitle__finish_mission = "Закінчити цю міссію"
+--gage packs detector
+	__title__gagepacks_menu = "Детектор Gage пакетів"
+	__title__gagepacks_menu_description = "Натисніть \"Показати всі пакети\" щоб знайти їх"
+
+	btitle__detect_packages = "Показати всі пакети"
+--update notifier menu
+	btitle__yes = "Так"
+	btitle__no = "Ні"
+	
+	__title__update_avaiable = "Трейнер Simple Assistant: Оновлення готове"
+	__title__update_avaiable_description = "Чи не бажаєте ви оновити трейнер SA?"
+	__title__update_note_required = "Трейнер Simple Assistant: Немає нових оновлень"
+	__title__update_note_required_description = "Ваш трейнер SA оновлений, немає необхідності турбуватися!"
+--skillsmenu
+	btitle__add_1_skill = "Додати 1 очко"
+	btitle__add_5_skill = "Додати 5 очок"
+	btitle__add_10_skill = "Додати 10 очок"
+	btitle__add_50_skill = "Додати 50 очок"
+
+	btitle__rem_1_skill = "Зняти 1 очко"
+	btitle__rem_5_skill = "Зняти 5 очок"
+	btitle__rem_10_skill = "Зняти 10 очок"
+	btitle__rem_50_skill = "Зняти 50 очок"
+--notices
+	_info_title__iammo_enabled = "Безкінечні патрони увімкнені"
+	_info_title__flashbang_disabled = "Ефект світлової гранати вимкнений"
+	_info_title__spread_disabled = "Розкид куль вимкнений"
+	_info_title__recoil_disabled = "Віддача вимкнена"
+	_info_title__instreload_disabled = "Миттєва перезарядка увімкнена"
+	_info_title__godmode_enabled = "Режим Бога увімкнений"
+	_info_title__godmode_disabled = "Режим Бога вимкнений"
+	_info_title__carrystacker_enabled = "Стакер сумок увімкнений"
+	_info_title__plusdamage_enabled = "Buffered damage"
+	_info_title__host_only = "Тільки хост може виконати це"
+	_info_title__packs_shown = "Gage пакети показані, тепер роззуйте очі"
+--errors
+	__title__error_unavailable_in_menu = "Неможливо виконати цей чит"
+	__title__error_unavailable_in_menu_reason = "Будь-ласка спочатку почніть пограбування!"
+	__title__error_packs_not_shown = "Неможливо показати Gage пакети"
+	__title__error_packs_not_shown_reason = "Показ Gage пакетів можливий тільки при розпочатому пограбуванні!"
+	__title__error_carrystacker_enabler = "Помилка: Неможливо увімкнути стакер сумок"
+	__title__error_carrystacker_enabler_reason = "Стак сумок можливий тільки при розпочатому пограбуванні!"
+	__title__error_ac_disabler = "Помилка: Неможливо відключити античит"
+	__title__error_ac_disabler_reason = "Відключення античита можливе тільки при розпочатому пограбуванні!"
+	__title__error_only_bigoil_d2 = "Помилка: Цей чит доступний тільки у Big Oil: День 2"
 --			BELORUSSIAN
 --			OTHER (RFTM)
