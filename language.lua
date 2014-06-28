@@ -24,7 +24,6 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	btitle__money_menu = "Money Menu"
 	btitle__disable_anticheat = "Disable Integrated Anticheat"
 	btitle__check_updates = "Check For Updates"
-	btitle__homepage = "SAT's homepage"
 --cheats menu
 	__title__cheatsmenu = "Cheats Menu"
 
@@ -46,8 +45,6 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	btitle__detect_engine = "Detect Correct Engine"
 	btitle__enable_stacker = "Enable Carrystacker"
 	btitle__back_to_cheats_menu = "Back to Cheats Menu"
-	btitle__instant_interaction = "Instant Interaction"
-	btitle__infinite_pagers = "Infinite Pagers"
 --menu-related cheats
 	__title__missionrelated_cheats = "Menu-Related Cheats"
 
@@ -113,6 +110,7 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	btitle__money_menu = "Меню грошей"
 	btitle__disable_anticheat = "Вимкнути iнтегрований античит"
 	btitle__check_updates = "Перевiрити наявнiсть оновлень"
+	btitle__homepage = "#HOMEPAGE_REQUIRED_TRANSLATION"
 --cheats menu
 	__title__cheatsmenu = "Меню читiв"
 
@@ -134,6 +132,8 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	btitle__detect_engine = "Показати правильний двигун"
 	btitle__enable_stacker = "Увiмкнути стакер сумок"
 	btitle__back_to_cheats_menu = "До меню читiв"
+	btitle__instant_interaction = "#INSTANT_INTERACTION_REQUIRED_TRANSLATION"
+	btitle__infinite_pagers = "#INFINITE_PAGERS_REQUIRED_TRANSLATION"
 --menu-related cheats
 	__title__missionrelated_cheats = "Чити пов'язанi з мiссiэю"
 
