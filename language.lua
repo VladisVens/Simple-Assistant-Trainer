@@ -123,7 +123,7 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	btitle__disable_gm = "Вимкнути режим Бога"
 	btitle__enable_iammo = "Увімкнути безкінечні патрони"
 	btitle__enable_instreload = "Увімкнути миттєву перезарядку"
-	btitle__enable_bdamage = "Збільшити шкоди зброї"
+	btitle__enable_bdamage = "Збільшити шкоду зброї"
 	btitle__disable_fb = "Вимкнути ефект світлової гранати"
 	btitle__disable_spread = "Вимкнути розкид куль"
 	btitle__disable_recoil = "Вимкнути віддачу"
@@ -171,7 +171,7 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	_info_title__godmode_enabled = "Режим Бога увімкнений"
 	_info_title__godmode_disabled = "Режим Бога вимкнений"
 	_info_title__carrystacker_enabled = "Стакер сумок увімкнений"
-	_info_title__plusdamage_enabled = "Buffered damage"
+	_info_title__plusdamage_enabled = "Шкода збільшена"
 	_info_title__host_only = "Тільки хост може виконати це"
 	_info_title__packs_shown = "Gage пакети показані, тепер роззуйте очі"
 --errors
