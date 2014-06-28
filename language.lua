@@ -123,7 +123,7 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	btitle__disable_gm = "Вимкнути режим Бога"
 	btitle__enable_iammo = "Увімкнути безкінечні патрони"
 	btitle__enable_instreload = "Увімкнути миттєву перезарядку"
-	btitle__enable_bdamage = "Buffer Weapon Damage"
+	btitle__enable_bdamage = "Збільшити шкоди зброї"
 	btitle__disable_fb = "Вимкнути ефект світлової гранати"
 	btitle__disable_spread = "Вимкнути розкид куль"
 	btitle__disable_recoil = "Вимкнути віддачу"
