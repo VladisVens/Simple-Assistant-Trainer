@@ -70,6 +70,8 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	__title__update_note_required = "Simple Assistant Trainer: No Update Available"
 	__title__update_note_required_description = "Your SAT is up-to-date, no need to worry!"
 --skillsmenu
+	__title__skillsmenu = "Skills Menu"
+
 	btitle__add_1_skill = "Add 1 point"
 	btitle__add_5_skill = "Add 5 points"
 	btitle__add_10_skill = "Add 10 points"
@@ -79,6 +81,29 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	btitle__rem_5_skill = "Remove 5 points"
 	btitle__rem_10_skill = "Remove 10 points"
 	btitle__rem_50_skill = "Remove 50 points"
+--moneymenu
+	__title__moneymenu = "Money Menu"
+	__title__moneymenu_rem = "Money Menu: Removal"
+	
+	btitle__add_1_money = "Add 1 million + 4 million to offshore"
+	btitle__add_10_money = "Add 10 million + 40 million to offshore"
+	btitle__add_100_money = "Add 100 million + 400 million to offshore"
+	btitle__add_1000_money = "Add 1 billion + 4 billion to offshore"
+	btitle__add_1_money_nooffshore = "Add 1 million"
+	btitle__add_10_money_nooffshore = "Add 10 million"
+	btitle__add_100_money_nooffshore = "Add 100 million"
+	btitle__add_1000_money_nooffshore = "Add 1 billion"
+	btitle__open_moneyrem_menu = "Open money removal menu"
+	
+	btitle__rem_1_money = "Remove 1 million + 4 million from offshore"
+	btitle__rem_10_money = "Remove 10 million + 40 million from offshore"
+	btitle__rem_100_money = "Remove 100 million + 400 million from offshore"
+	btitle__rem_1000_money = "Remove 1 billion + 4 billion from offshore"
+	btitle__rem_1_money_nooffshore = "Remove 1 million"
+	btitle__rem_10_money_nooffshore = "Remove 10 million"
+	btitle__rem_100_money_nooffshore = "Remove 100 million"
+	btitle__rem_1000_money_nooffshore = "Remove 1 billion"
+	btitle__open_money_menu = "Open money menu"
 --notices
 	_info_title__iammo_enabled = "Infinite ammo enabled"
 	_info_title__flashbang_disabled = "Flashbang effect disabled"
@@ -159,6 +184,8 @@ RUSSIAN LANGUAGE IS ALREADY DONE!]]--
 	__title__update_note_required = "Трейнер Simple Assistant: Немаэ нових оновлень"
 	__title__update_note_required_description = "Ваш трейнер SA оновлений, немаэ необхiдностi турбуватися!"
 --skillsmenu
+	__title__skillsmenu = "#SKILLSMENU_REQUIRED_TRANSLATION"
+
 	btitle__add_1_skill = "Додати 1 очко"
 	btitle__add_5_skill = "Додати 5 очок"
 	btitle__add_10_skill = "Додати 10 очок"
